@@ -10,8 +10,8 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. PLOIEŞTI, NR.36-36N, 38, ET.2 |
 | Website | [https://jwx.com](https://jwx.com) |
 | Careers | [https://jwx.com/careers](https://jwx.com/careers) |
-| Last Scraped | 2026-11-22 |
+| Last Scraped | 2026-11-23 |
 
 ## Current Job Listings (0)
 
-_Generated: 2026-11-22T14:20:44.971Z_
+_Generated: 2026-11-23T17:43:55.729Z_
